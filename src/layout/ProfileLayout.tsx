@@ -21,8 +21,7 @@ const layoutStyle = {
   borderRadius: 8,
   overflow: "hidden",
   height:"100vh"
-  // width: "calc(50% - 8px)",
-  // maxWidth: "calc(50% - 8px)",
+
 };
 
 const ProfileLayout = () => {
